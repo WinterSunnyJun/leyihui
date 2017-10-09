@@ -1,0 +1,419 @@
+@media only screen and (min-width: 320px) and (max-width: 768px) {
+	/*首页*/
+	
+	/*标题*/
+	.content-header,
+	.content-title,
+	.cpfx-wrapper,
+	.cpys-wrapper,
+	.xhm-wrapper,
+	.znk-wrapper,
+	.mscx-wrapper,
+	.glxt-wrapper,
+	.zsjm-wrapper,
+	.hyzx-wrapper,
+	.friendLink{
+		width: 100%;
+	}
+	.content-title{
+		margin-top: 20px;
+	}
+	.content-title li{
+		width: 30%;
+		margin:0 10%;
+	}
+    .content-title-text{
+    	margin-top: 20px;
+    }
+    .content-title li:last-child{
+    	margin: 0px 35%;
+    }
+    
+    /*市场分析*/
+   
+   /*市场优势*/
+  .cpys-body-wrapper{
+  	background: none;
+  }
+  .cpys-title-color,
+  .cpys-body-wrapper{
+  	margin-top: 0;
+  }
+ 
+  .cpys-body{
+  	width:100%;
+  	margin-top: 20px;
+  }
+  .cpys-title-btn{
+  	width: 100%;
+  }
+  .cpys-title-btn li{
+  	width: 40%;
+  	margin: 5px 5%;
+
+  }
+  .cpys-more {
+  	width: 50%;
+  	margin-top: -50px;
+  	font-size: 16px;
+  }
+  .cpys-item-text{
+  	float: none;
+  	width: 100%;
+  }  
+  .cpys-item-pic{
+  	float: none;
+  	width: 80%;
+  	margin: 0px auto;
+  }
+  .cpys-item-textPic{
+  	width: 80%;
+  	margin: 20px auto;
+  }
+    
+   /*洗护沐*/
+  .xhm-title-pic{
+  	width: 80%;
+  }
+  .xhm-body-wrapper{
+  	width: 100%;
+  	height: auto;
+  	margin-top: 0;
+  	background: none;
+  }
+  .xhm-body{
+  	width: 100%;
+  	margin-top: 20px;
+  }
+  .xhm-title-btn {
+  	width: 100%;
+  	float: none;
+  }
+  .xhm-title-btn li{
+  	width: 40%;
+  	margin: 5px 5%;
+  }
+  	.xhm-more{
+  		width: 50%;
+  		margin-top: -50px;
+  		font-size: 16px;
+  	}
+  	
+  	.xhm-body-content{
+  		margin-top: 20px;
+  	}
+  	.xhm-item-text{
+  		float: none;
+  		width: 100%;
+  	}
+  	.xhm-item-text h2{
+  		text-align: center;
+  	}
+  	.xhm-item-text h5{
+  		text-align: center;
+  	}
+  	.xhm-item-text p{
+  		width: 90%;
+  	}
+  	.xhm-item-textPic{
+  		width: 90%;
+  		margin: 20px auto;
+  	}
+    .xhm-content-list{
+    	height: auto;
+    }
+    .xhm-item-pic{
+    	float: none;
+    	width: 80%;
+    	margin: 0px auto;
+    }
+    
+    /*纸尿裤*/
+   .znk-title-pic{
+   	width: 80%;
+   }
+   .znk-title-text{
+   	line-height: 30px;
+   }
+   .znk-body-wrapper{
+   	height: auto;
+   	margin-top: 0px;
+   } 
+   .znk-body{
+   	width: 100%;
+   	margin-top: 20px;
+   } 	
+  	.znk-title-btn{
+  		float: none;
+  		width: 100%;
+  	}
+  	.znk-title-btn li{
+  	width: 40%;
+  	margin: 5px 5%;
+  }
+  .znk-more{
+  	width: 50%;
+  	margin-top: -50px;
+  	font-size: 16px;
+  }
+  
+  .znk-body-content{
+  	margin-top: 0px;
+  }
+  .znk-content-list{
+  	height: auto;
+  }
+  .znk-item-text{
+  	float: none;
+  	width: 100%;
+  }
+  .znk-item-text h2{
+  	width: 100%;
+  	text-align: center;
+  }
+  .znk-item-text p{
+  	width: 90%;
+  }
+  .znk-item-textPic{
+  	margin-top: 20px;
+  }
+  .znk-item-pic{
+  	float: none;
+  	width: 100%;
+  }
+  
+  /*模式创新*/
+ .mscx-title-pic{
+ 	width: 80%;
+ }
+ 
+ .mscx-body-wrapper{
+ 	height: auto;
+ 	background-size:cover ;
+ 	margin-top: 0px;
+ }
+ 
+ .mscx-body{
+ 	width: 100%;
+ }
+ .mscx-body-text{
+ 	width: 100%;
+ 	height: auto;
+ }
+ .mscx-text-list{
+ 	width: 90%;
+ 	margin: 10px auto;
+ 	
+ }
+ .mscx-textPic{
+ 	margin: 20px auto;
+ 	width: 80%;
+ }
+   .mscx-body-pic{
+   	position: static;
+   	width: 80%;
+   	height: auto;
+   	margin: 0px auto;
+   }
+   
+   /*管理创新*/
+  .glxt-title-pic{
+  	width: 80%;
+  }
+  .glxt-title-text{
+  	line-height: 30px;
+  }
+   .glxt-body{
+   	width: 100%;
+   }
+   .glxt-body-text{
+   	width: 90%;
+   	margin: 0px auto;
+   }
+   .glxt-body-text p{
+   	line-height: 26px;
+   	font-size: 16px;
+   }
+  .glxt-body-pic{
+  	width: 80%;
+  	height: auto;
+   margin: 0px auto;
+  }
+  
+  /*招商加盟*/
+ .zsjm-bg{
+ 	margin-top: 20px;
+ }
+ .zsjm-title-pic{
+ 	width: 80%;
+ }
+ .zsjm-title-text{
+ 	line-height: 30px;
+ }
+ .zsjm-body-wrapper{
+ 	background: none;
+ 	height: auto;
+ 	margin-top: 0px;
+ }
+ .zsjm-body{
+ 	width: 100%;
+ 	margin-top: 10px;
+ }
+ .zsjm-content-left{
+ 	float: none;
+ 	width: 100%;
+ }
+ .zsjm-left-pic1{
+ 	width: 80%;
+ 	height: 200px;
+ 	
+ }
+ .zsjm-left-fw{
+ 	margin-top: 10px;
+ }
+ .zsjm-left-fthin{
+ 	margin-top: 10px;
+ }
+ .zsjm-left-pic2{
+ 	width: 80%;
+ 	height: 300px;
+ 	margin-top: 10px;
+ }
+ 
+ .zsjm-content-right{
+ 	float: none;
+ 	width: 100%;
+ }
+ .zsjm-right-title, 
+ .zsjm-right-list{
+ 	width: 90%;
+ 	text-indent: 0px;
+ 	margin: 0px auto;
+ 	text-align: center;
+ }
+ 
+ .zsjm-right-iconList{
+ 	width: 100%;
+ 	margin: 0px auto;
+ 	
+ }
+ .zsjm-right-iconList li{
+ 	width: 30%;
+ 	margin: 10px 10%;
+ }
+ 
+ .zsjm-agency {
+ 	width: 100%;
+ }
+ .agency-pic{
+ 	display: none;
+ }
+ .agency-body{
+ 	float: none;
+ 	width: 100%;
+ }
+ .agency-body table{
+ 	width: 90%;
+ 	margin: 0px auto;
+ }
+ 
+ /*行业资讯*/
+ .hyzx-bg{
+ 	margin-top: 20px;
+ }
+ .hyzx-title-pic{
+ 	width: 80%;
+ }
+ .hyzx-title-text{
+ 	line-height: 30px;
+ }
+ .hyzx-more{
+ 	width: 80%;
+ 	margin: 10px auto;
+ }
+ .hyzx-list{
+ 	width: 90%;
+ 	margin: 0px auto;
+ }
+ .hyzx-list li{
+ 	float: none;
+ 	width: 100%;
+ }
+ .hyzx-item-time{
+ 	width: 20%;
+ }
+ 
+ .hyzx-time-date{
+ 	font-size: 20px;
+ }
+ .hyzx-item-text{
+ 	float: right;
+ 	margin-left: 0px;
+ 	width: 75%;
+ }
+ .hyzx-item-text h4{
+ 	font-size: 16px;
+ }
+ .hyzx-item-text p{
+ 	font-size: 12px;
+ }
+  .hyzx-list li{
+  	display: none;
+  }
+   .hyzx-list li:nth-child(1),
+   .hyzx-list li:nth-child(2),
+   .hyzx-list li:nth-child(3){
+   	display: block;
+   }
+   
+   /*友情链接*/
+  .friendLink-title{
+  	width: 90%;
+  	margin: 0px auto;
+  }
+  .friendLink-list{
+  	width: 90%;
+  	margin: 0px auto;
+  }
+  
+   /*底部*/
+  .footer{
+  	width: 100%;
+  	padding-top: 10px;
+  }
+  .footer-logo{
+  	float: none;
+  	width: 60%;
+  	margin: 0px auto;
+  }
+  .footer-navMap-list{
+  	width: 100%;
+  }
+  
+  .footer-navMap-item{
+  	width: 30%;
+  	margin: 5px 1%;
+  	text-align: center;
+  }
+  .copyright{
+  	width: 100%;
+  	padding: 10px 0px;
+  }
+  
+ 
+  
+}
+@media only screen and (min-width: 320px) and (max-width: 768px){
+	.carousel-inner {
+		height:160px;
+	}
+	.carousel-inner > .active {
+		height: 160px;
+	}
+	.carousel-inner > .item {
+		height: 160px;
+	}
+	.carousel-inner > .item > a > img {
+		height: 160px;
+	}
+}
